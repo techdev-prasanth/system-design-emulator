@@ -1,0 +1,6 @@
+{
+  "name": "System Design Lab",
+  "description": "Interactive real-time system design practice, architecture diagramming, distributed systems simulation, and load testing laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
